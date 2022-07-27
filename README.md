@@ -1,2 +1,2 @@
-# 201_reading_notes
-This is a collection of my Code Fellows Cyber Ops notes
+# Table of Contents 
+- [Class 02 Reading Notes](class-02.md)
