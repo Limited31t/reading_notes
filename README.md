@@ -6,3 +6,4 @@
 - [Class 06 Reading Notes](notes_class_6.md)
 - [Class 07 Reading Notes](notes_class_7.md)
 - [Class 08 Reading Notes](notes_class_8.md)
+- [Class 09 Reading Notes](notes_class_9.md)
