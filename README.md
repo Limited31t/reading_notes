@@ -7,3 +7,4 @@
 - [Class 07 Reading Notes](notes_class_7.md)
 - [Class 08 Reading Notes](notes_class_8.md)
 - [Class 09 Reading Notes](notes_class_9.md)
+- [Class 10 Reading Notes](notes_class_10.md)
