@@ -9,3 +9,4 @@
 - [Class 09 Reading Notes](notes_class_9.md)
 - [Class 10 Reading Notes](notes_class_10.md)
 - [Class 11 Reading Notes](notes_class_11.md)
+- [Class 12 Reading Notes](notes_class_12.md)
