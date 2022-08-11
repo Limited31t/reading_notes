@@ -10,4 +10,4 @@
 - [Class 10 Reading Notes](notes_class_10.md)
 - [Class 11 Reading Notes](notes_class_11.md)
 - [Class 12 Reading Notes](notes_class_12.md)
-- [Class 12 Reading Notes](notesclass13.md)
+- [Class 13 Reading Notes](readingnotesclass13.md)
